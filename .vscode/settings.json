@@ -12,5 +12,6 @@
         "path": "bash",
         "args": ["-l"]
       }
-    }
+    },
+  "eslint.enable": true
 }
